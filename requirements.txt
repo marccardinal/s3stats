@@ -1,0 +1,3 @@
+boto
+prettytable
+hurry.filesize
